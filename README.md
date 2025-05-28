@@ -23,4 +23,4 @@
 2. - [x] Lab2 - Графики (Готовые изображения в папке graphs)
 3. - [x] Lab3 - Декораторы
 4. - [x] Lab4.1 - [Бот ножницы, камень, бумага](https://github.com/Dumaqkumaq/TGbot_stone_paper_scissors)
-5. - [ ] Lab4.2 - [Бот строитель роз ветров]()
+5. - [x] Lab4.2 - [Бот строитель роз ветров](https://github.com/Dumaqkumaq/TGbot_windroses)
